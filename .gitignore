@@ -1,0 +1,17 @@
+# 凭据与密钥
+*.env
+*.ovpn
+id_rsa*
+*.pem
+
+# 抓包日志与敏感数据
+*.pcap
+*.req
+*.res
+*.log
+*.sqlite
+
+# 操作系统与IDE缓存
+.DS_Store
+.vscode/
+.cursor/
